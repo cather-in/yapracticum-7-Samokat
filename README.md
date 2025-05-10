@@ -27,4 +27,4 @@
 
 Ссылка на баг-репорты: https://docs.google.com/spreadsheets/d/1v6D_jEaOAUTEWM08VlrHp3yMqKNn-yIhTdyOZ3VC3uk/edit?usp=sharing
 
-Отчет по результатам тестирования: 
+Отчет по результатам тестирования: https://docs.google.com/document/d/1m4-GSQU34nZUZftVllyfhAWFpfX3Ywu1dKD_2LhpIZw/edit?usp=sharing
