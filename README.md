@@ -23,6 +23,8 @@
 
 — Провела тестирование всей функциональности веб-приложения, отдельной функциональности мобильного приложения, отдельной функциональности API приложения с помощью Postman.
 
+— Работала терминалом Cygwin, SQL, Charles.
+
 Ссылка на тест-кейсы и чек-листы: https://docs.google.com/spreadsheets/d/1d-hKF-zYOHl9D_i9WIDzbvNcc3dLeTFEL35DxPxoR2E/edit?usp=sharing
 
 Ссылка на баг-репорты: https://docs.google.com/spreadsheets/d/1v6D_jEaOAUTEWM08VlrHp3yMqKNn-yIhTdyOZ3VC3uk/edit?usp=sharing
